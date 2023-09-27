@@ -42,5 +42,5 @@ class Const {
   static const apiUrl = "https://newsapi.org/v2/";
   static const apiGPT = "https://api.openai.com/";
   static const apiKey = "c9eb1bc80bf34292a272b92b3f7081d8";
-  static const apiKeyGPT = "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";
+  static const apiKeyGPT = "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";
 }
